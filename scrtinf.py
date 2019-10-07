@@ -1,0 +1,5 @@
+s1 = "No changes in the algorithm lately."
+s2 = "One Event: Bombin' The Crib at 12:50am"
+s3 = "No one has detected the dinosaur extinction change since you did it."
+s4 = "No alien cheeks stolen yet."
+s5 = "s a c r i f i c e     n e e d e d"
